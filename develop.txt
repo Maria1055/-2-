@@ -1,2 +1,2 @@
 Only in develop
-from remote repository
+from local repository
